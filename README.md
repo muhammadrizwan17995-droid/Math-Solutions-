@@ -1,7 +1,5 @@
 
-# =========================================
 # RIZWAN AI - ASK ANY MATH QUESTION
-# =========================================
 
 def answer_question(question):
     q = question.lower().strip()
