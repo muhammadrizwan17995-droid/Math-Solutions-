@@ -1,4 +1,4 @@
-# Math-Solutions-
+Math Problems Solution
 All type math solutions for Students 
 # =========================================
 # RIZWAN AI - ASK ANY MATH QUESTION
